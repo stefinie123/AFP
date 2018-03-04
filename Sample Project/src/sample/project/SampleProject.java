@@ -18,6 +18,7 @@ public class SampleProject {
         // TODO code application logic here
         
         System.out.println("I have again changed here!");
+        System.out.println("Hi guys!........");
     }
     
 }
